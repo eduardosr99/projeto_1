@@ -3,3 +3,4 @@ Analise de dados com base em pergunta de negócio e a manipulação e tratativa 
 
 1º Instalar Python 
 2º Instalar as bibliotecas: numpy, pandas, matplotlib.pyplot, seaborn
+3º Instalar Power BI para executar e visualizar o arquivo pbix
